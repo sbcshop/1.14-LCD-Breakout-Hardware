@@ -18,7 +18,7 @@ The 1.14” LCD breakout is colorful and easy to experiment with graphics. The d
 ## Repository Contents:
   - [/Design Data](https://github.com/sbcshop/1.14-LCD-Breakout-Hardware/tree/main/Design%20Data) - This directory contains Schematic, Top and Bottom View.
   - [/Mecahnical Data](https://github.com/sbcshop/1.14-LCD-Breakout-Hardware/tree/main/Mechanical%20Data) - This directory contains Dimension, 3D and STEP files
-
+  - [Getting Started](https://github.com/sbcshop/1.14-LCD-Breakout-Software): This github includes getting started guide for 1.14" LCD Breakout with examples and library files.
 ## Related Products
   * [1.28" Round LCD Breakout](https://shop.sb-components.co.uk/products/1-28-round-lcd-breakout?_pos=2&_sid=aa1a4c610&_ss=r) 
    
